@@ -1,6 +1,6 @@
 # VR Interaction Scripts (Unity C#)
 
-This repository contains **C# scripts** I created for virtual reality development in Unity.  
+This repository contains **C# scripts** I created for a virtual reality research project.
 They demonstrate various **interaction systems** and **XR mechanics**, focusing on hand-based interaction, avatar setup, and environmental feedback.
 
 ---
